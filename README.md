@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**Abhi-1445/Abhi-1445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Power BI | Python | SQL | Excel/CSV
 
-Here are some ideas to get you started:
+I am a data analyst passionate about transforming raw data into meaningful insights that drive business decisions. I enjoy working on real-world datasets and building dashboards that provide clear and actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* 📊 **Data Visualization:** Power BI
+* 🐍 **Programming:** Python
+* 🗄️ **Database:** MySQL
+* 📑 **Data Analysis:** Excel
+* 🔄 **Data Transformation & Cleaning**
+* 🤝 **Customer Success & Business Understanding**
+
+---
+
+## 📁 Projects
+
+* 🏢 **Global Real Estate Sales & Project Management Dashboard**
+* 🛒 **E-commerce Customer Behaviour Analysis**
+* 📊 **KPN Fresh Data Analysis**
+
+---
+
+## 📈 What I Do
+
+* Analyze business data to identify trends and patterns
+* Build interactive dashboards and reports
+* Perform data cleaning and transformation
+* Generate insights for data-driven decision making
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: 
+* 💻 GitHub: https://github.com/Abhi-1445
+
+---
+
+⭐ *Always learning and building in the field of Data Analytics*
