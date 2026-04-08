@@ -11,7 +11,7 @@ I am a data analyst passionate about transforming raw data into meaningful insig
 * 📊 **Data Visualization:** Power BI
 * 🐍 **Programming:** Python
 * 🗄️ **Database:** MySQL
-* 📑 **Data Analysis:** Excel
+* 📑 **Data Analysis:** Excel/CSV
 * 🔄 **Data Transformation & Cleaning**
 * 🤝 **Customer Success & Business Understanding**
 
@@ -21,7 +21,7 @@ I am a data analyst passionate about transforming raw data into meaningful insig
 
 * 🏢 **Global Real Estate Sales & Project Management Dashboard**
 * 🛒 **E-commerce Customer Behaviour Analysis**
-* 📊 **KPN Fresh Data Analysis**
+* 📊 **KPN Fresh(Grocery Platform) Data Analysis**
 
 ---
 
